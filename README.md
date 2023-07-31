@@ -1,2 +1,2 @@
-# bixler
+# react-template
 Created with CodeSandbox
